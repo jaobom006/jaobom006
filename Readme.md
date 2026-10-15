@@ -4,8 +4,7 @@
 </div>
 
 ###
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=15&pause=1000&color=F70000&width=435&lines=N%C3%A3o%2C+eu+n%C3%A3o+sou+o+homem+aranha%2C+mas;me+consideram+o+amigo+da+vizinhan%C3%A7a!+%F0%9F%95%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=15&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=N%C3%A3o%2C+eu+n%C3%A3o+sou+o+homem+aranha%2C+mas;me+consideram+o+amigo+da+vizinhan%C3%A7a!+%F0%9F%95%B7)](https://git.io/typing-svg)
 
 <h5 data-importer="text" align="center"> ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ </h5>
 
