@@ -4,7 +4,7 @@
 </div>
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=15&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=N%C3%A3o%2C+eu+n%C3%A3o+sou+o+homem+aranha%2C+mas;me+consideram+o+amigo+da+vizinhan%C3%A7a!+%F0%9F%95%B7)](https://git.io/typing-svg)
+ㅤ                      [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=15&pause=1000&color=F70000&center=true&vCenter=true&width=435&height=100&lines=N%C3%A3o%2C+eu+n%C3%A3o+sou+o+homem+aranha%2C+mas;me+consideram+o+amigo+da+vizinhan%C3%A7a!+%F0%9F%95%B7)](https://git.io/typing-svg)
 
 <h5 data-importer="text" align="center"> ▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄ </h5>
 
@@ -41,6 +41,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaobom006/jaobom006/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jaobom006/jaobom006/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=17&pause=1000&color=DF0606&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Acesse+o+link+da+bio+e+veja+nosso+projeto!;%EA%A9%9C+A+GennisCode+agradece+seu+apoio+%E0%B4%A6%E0%B5%8D%E0%B4%A6%E0%B4%BF%28%E2%80%A2%E1%B4%97%E2%80%A2%29)](https://git.io/typing-svg)
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=B11313"  />
